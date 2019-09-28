@@ -1,0 +1,6 @@
+token=NjIyMDgyNDY1MzI2MTcwMTMy.XY3Sng.kvVx5LnrdFiLAvWvFQZ8PEt3vIE
+owner=521297759794495489
+prefix=kplay
+game=kplay music
+stayinchannel=true
+songinstatus=true
